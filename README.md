@@ -3,9 +3,14 @@
 
 - 🌱 I’m currently learning **Python, Snowflake, AI, ML**
 
+- 👨‍💻 All of my projects are available at [https://github.com/gauthamgtg](https://github.com/gauthamgtg)
+
+
 - 💬 Ask me about **SQL, Tableau, PowerBI, Powerpoint and Excel**
 
 - 📫 How to reach me **gautham251997@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OJcuU0r5mO0RPwwDnhVOx6ffJKT9O2Pg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
