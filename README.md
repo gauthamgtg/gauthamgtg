@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Powerpoint and Excel**
 
-- 📫 How to reach me **gautham251997@gmail.com**
+- 📫 How to reach me **gautham2597@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OJcuU0r5mO0RPwwDnhVOx6ffJKT9O2Pg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fiXIM6u0PxSzwwTOvhGcZ1Ybw4yfGIHP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
