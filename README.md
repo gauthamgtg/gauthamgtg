@@ -5,7 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauthamgtg](https://github.com/gauthamgtg)
 
-
+- 📝 Portfolio - [https://gauthamgtg.github.io/portfolio/](https://gauthamgtg.github.io/portfolio/)
+  
 - 💬 Ask me about **SQL, Tableau, PowerBI, Powerpoint and Excel**
 
 - 📫 How to reach me **gautham2597@gmail.com**
