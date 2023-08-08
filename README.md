@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gautham2597@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fiXIM6u0PxSzwwTOvhGcZ1Ybw4yfGIHP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/vl6k2hbbfp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
