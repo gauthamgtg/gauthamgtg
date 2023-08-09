@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautham Mahadevan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Python, Snowflake, AI, ML**
+- 🌱 I’m currently learning **Python, AI, ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauthamgtg](https://github.com/gauthamgtg)
 
