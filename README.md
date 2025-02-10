@@ -7,7 +7,7 @@
 
 - 📝 Portfolio - [https://gauthamgtg.github.io/portfolio/](https://gauthamgtg.github.io/portfolio/)
   
-- 💬 Ask me about **SQL, Tableau, PowerBI, Powerpoint and Excel**
+- 💬 Ask me about **SQL, Tableau, PowerBI, Python, Streamlit, Github, Powerpoint and Excel**
 
 - 📫 How to reach me **gautham2597@gmail.com**
 
